@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Dec  3 12:27:35 2019
-
-Object: Obtener la información que se le pasará a la red neuronal para la predicción del número de goles
-
 @author: carvi
 """
 
